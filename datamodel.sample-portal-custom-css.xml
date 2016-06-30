@@ -4,7 +4,7 @@
         <module_design id="itop-portal" xsi:type="portal">
             <properties>
                 <themes>
-                    <theme id="new-background" _delta="define">../sample-portal-custom-css/background.css</theme>
+                    <theme id="custom" _delta="define">sample-portal-custom-css/custom.css</theme>
                 </themes>
             </properties>
         </module_design>

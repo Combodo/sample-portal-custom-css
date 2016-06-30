@@ -1,0 +1,15 @@
+/* Removing background and setting color of sidebar nav header */
+#sidebar .user_card{
+	background-image: none;
+	background-color: #b50000;
+}
+
+/* Removing active item arrow decoration */
+#sidebar .menu .navbar-nav > li.active:after{
+	border: none;
+}
+
+/* Removing icons from sidebar nav items */
+#sidebar .menu .navbar-nav > li > a > .brick_icon{
+    display: none;
+}
